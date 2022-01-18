@@ -203,7 +203,7 @@ nav .icon-burger .line{
         width: 90%;
         height: auto;
         padding: 20px;
-        margin-left: 5px;
+        margin-left: 2px;
         border-radius: 0px;
         display: flex;
         flex-direction: column;
@@ -215,7 +215,7 @@ nav .icon-burger .line{
     }
     #footer .foot{
         width: 97%;
-        margin-left: 5px;
+        margin-left: 3px;
     }
 }
 
